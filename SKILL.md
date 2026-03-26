@@ -7,7 +7,7 @@ description: Retrieve search results from web search engines.
 - 使用node脚本进行搜索
 - search.js文件在当前skill目录下
 - 返回json序列化数组,顺序对应参数2（搜索引擎名称）
-- 参考优先使用引号，特别是搜索关键词包含空格
+- 参数优先使用引号，特别是搜索关键词包含空格
 - 可同时搜索多个搜索引擎,多选使用逗号分割
 - 用法：`node search.js "参数1:搜索的关键词(必填参数)" "参数2:搜索引擎名称(可选参数,多选使用逗号分割)"`
 
