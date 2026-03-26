@@ -153,8 +153,6 @@ const engines = {
             }
         }
         
-        console.log(data.join('\n\n---\n\n'));
-        
         return data.join('\n\n---\n\n');
     },
 }
