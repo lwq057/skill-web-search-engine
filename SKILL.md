@@ -15,3 +15,8 @@ description: Retrieve search results from web search engines.
 - `so_web_pc`:360网页搜索 PC
 - `bing_web_pc`:bing网页搜索 PC (默认)
 - `sogou_web_pc`:sogou网页搜索 PC
+
+# 优势
+- 节省token使用
+- 可同时搜索多个搜索引擎
+- 轻量
